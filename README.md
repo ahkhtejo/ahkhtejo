@@ -1,6 +1,7 @@
 # 💫 About Me:
 👨‍💻 About Me<br><br>Hi, I’m Ahmed Khalifa, a Senior Software Engineer with 7+ years of experience building scalable, high-performance applications across web, cloud, and mobile platforms.<br><br>💡 I’m passionate about:<br><br>Full-Stack Development (Node.js, .NET Core, React, Angular, Flutter)<br><br>Cloud & Deployment (Azure, Docker, On-Prem & Private Cloud)<br><br>Database Design & Optimization (PostgreSQL, SQL Server, MongoDB, Prisma ORM)<br><br>System Analysis & Diagnostics (UML, Log Analysis, Performance Tuning, RCA)<br><br>Agile Practices & Team Leadership (Certified Scrum Master – PSM I)<br><br>🚀 Highlights:<br><br>Built a Rental Platform (similar to Booking.com / Airbnb) handling 3,000+ concurrent users with Express.js, Prisma, PostgreSQL, and Tamara payment integration.<br><br>Developed a Restaurant Management System that automated order flow, inventory, and reservations for improved efficiency.<br><br>Winner of multiple international hackathons (MIT Hacking Medicine, JunctionX KAUST, Aramco Hackathon).<br><br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkhtejo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 # 💻 Tech Stack:
@@ -8,7 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahkhtejo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ahkhtejo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahkhtejo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
